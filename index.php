@@ -23,7 +23,7 @@ $_SESSION['secure']=chr($c1).chr($c2);
 
 <!--img src="generate.php" /><br/-->
 
-<form action="index2.php" method="post" />
+<form action="captchacode.php.php" method="post" />
 Type the value what u see <input type="text" name="cap"/><br/>
 <input type="submit" value="submit"/>
 </form>
